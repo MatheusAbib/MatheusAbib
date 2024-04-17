@@ -1,11 +1,11 @@
-## Bem-vindo(a) ao meu perfil😁
+## Bem-vindo(a) ao meu perfil🤞
 
 Sou o Matheus Abib, um desenvolvedor front-end, cursando para me tornar full-stack.
 Fique a vontade para entrar em contato comigo e conhecer meu trabalho.
 
-Who am I?
-I'm Wesley Gabriel Laurindo, a Software Engineer student at the Faculdade Tecnologica do Estado de São Paulo: FATEC-MC and a Backend Developer in Company Conferi. I have 21 years old and I live in Salesópolis, a city of interior of São Paulo. In free time, I am a wind musician, playing Euphonium. I really like to study new techniques and languages, always trying to ensure my best in every project I execute.
- <div>
+Quem sou eu:
+Atualmente estudo na Faculdade de Tecnologia do Estado de São Paulo: FATEC-MC, estou no quarto semestre e pretendo fazer uma pós-graduação. Tenho 20 anos e moro em Mogi das Cruzes, na Grande São Paulo. Gosto de me manter focado em meu projeto para entregá-lo com excelência, pois essa é uma área pela qual me apaixonei.
+
    <a href="https://github.com/MatheusAbib">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=6&theme=tokyonight"/>
