@@ -1,11 +1,11 @@
 ## Bem-vindo(a) ao meu perfil🤞
 
-Sou o Matheus Abib, um desenvolvedor front-end, cursando para me tornar full-stack. <br>
+Sou o Matheus Abib, um desenvolvedor <b>front-end<b>, cursando para me tornar full-stack. <br>
 Fique a vontade para entrar em contato comigo e conhecer meu trabalho.
 <br><br>
 
-Quem sou eu: <br>
-Atualmente estudo na Faculdade de Tecnologia do Estado de São Paulo: FATEC-MC, estou no quarto semestre e pretendo fazer uma pós-graduação. Tenho 20 anos e moro em Mogi das Cruzes, na Grande São Paulo. Gosto de me manter focado em meu projeto para entregá-lo com excelência, pois essa é uma área pela qual me apaixonei.
+<b> Quem sou eu: <b>  <br>
+Atualmente estudo na <b>Faculdade de Tecnologia do Estado de São Paulo: FATEC-MC<b>, estou no quarto semestre e pretendo fazer uma pós-graduação. Tenho 20 anos e moro em Mogi das Cruzes, na Grande São Paulo. Gosto de me manter focado em meu projeto para entregá-lo com <b>excelência<b>, pois essa é uma área pela qual me apaixonei.
 <br> <br><br>
 
    <a href="https://github.com/MatheusAbib">
