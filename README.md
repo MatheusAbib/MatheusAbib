@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil🤞
 
-Sou o Matheus Abib, um desenvolvedor <b></u>front-end</b></u>, cursando para me tornar full-stack. <br>
+Sou o Matheus Abib, um desenvolvedor <u>front-end</u>, cursando para me tornar full-stack. <br>
 Fique a vontade para entrar em contato comigo e conhecer meu trabalho.
 <br><br>
 
