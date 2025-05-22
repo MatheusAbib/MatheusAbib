@@ -40,5 +40,3 @@ Fique à vontade para explorar meus projetos, conhecer meu trabalho e entrar em 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511975072008&text=Olá,%20gostaria%20de%20conectar%20contigo.)
 
 ---
-
-> *"Código bem escrito é como música boa: fluido, envolvente e feito para ser compartilhado."*
