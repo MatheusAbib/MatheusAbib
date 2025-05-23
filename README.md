@@ -1,65 +1,46 @@
-# 👋 Bem-vindo(a) ao Meu Perfil GitHub! ✨
+# 👋 Bem-vindo(a) ao meu perfil!
 
-Sou **Matheus Abib**, um desenvolvedor **Front-End** apaixonado por tecnologia, em transição para **Full-Stack**. 🚀  
-Aqui você encontrará meus projetos, contribuições e um pouco do meu mundo dev!
-
----
-
-## 🌟 Sobre Mim
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Mogi das Cruzes** (4º semestre)  
-📚 Futuro pós-graduando com foco em **Arquitetura de Software**  
-📍 Baseado em **Mogi das Cruzes – SP**  
-🧠 Minha filosofia: *"Código é arte, performance é obrigação"*
+Sou **Matheus Abib**, um desenvolvedor **Front-End** apaixonado por tecnologia, estudando para me tornar **Full-Stack**. 🚀  
+Fique à vontade para explorar meus projetos, conhecer meu trabalho e entrar em contato!
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 Sobre mim
 
-### 💻 Front-End
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-
-### ⚙️ Back-End
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+🎓 Estudante na **FATEC Mogi das Cruzes**, atualmente no 4º semestre.  
+📚 Futuro pós-graduando, sempre buscando evoluir e aprender mais.  
+📍 Moro em **Mogi das Cruzes – SP**.  
+🧠 Sou focado, determinado e acredito que **excelência vem com paixão e dedicação**.
 
 ---
 
-## 📈 GitHub Analytics 
+## 🚀 Tecnologias que uso
 
-<div align="center">
-  
-[![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusAbib&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/MatheusAbib)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/MatheusAbib)
-
-
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MatheusAbib&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🤝 Vamos Conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-abib-382602301/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathabib_/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511975072008)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusabib02@gmail.com)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
+</div>
 
 ---
 
-⭐️ De [MatheusAbib](https://github.com/MatheusAbib) com ❤️
+## 📱 Vamos nos conectar!
 
-![Last Updated](https://img.shields.io/github/last-commit/MatheusAbib/MatheusAbib?label=Última%20Atualização&style=flat-square)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathabib_/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-abib-382602301/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511975072008&text=Olá,%20gostaria%20de%20conectar%20contigo.)
+
+---
+
