@@ -40,9 +40,6 @@ Aqui você encontrará meus projetos, contribuições e um pouco do meu mundo de
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/MatheusAbib)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MatheusAbib&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E)](https://git.io/streak-stats)
-
-[![Matheus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAbib&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=1F6FEB&point=C9D1D9)](https://github.com/MatheusAbib)
 
 </div>
 
