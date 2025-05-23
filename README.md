@@ -60,26 +60,6 @@ Aqui você encontrará meus projetos, contribuições e um pouco do meu mundo de
 
 ---
 
-<div align="center">
-  
-![Snake animation](https://github.com/MatheusAbib/MatheusAbib/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-> *"O código é poesia lógica escrita para humanos e executada por máquinas."*  
-> ✨ **Keep Coding, Keep Creating!** ✨
-
----
-
-### 📌 Repositórios Fixados
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusAbib&repo=your-repo-name&theme=radical)](https://github.com/MatheusAbib/your-repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusAbib&repo=another-repo&theme=radical)](https://github.com/MatheusAbib/another-repo)
-
----
-
 ⭐️ De [MatheusAbib](https://github.com/MatheusAbib) com ❤️
 
 ![Last Updated](https://img.shields.io/github/last-commit/MatheusAbib/MatheusAbib?label=Última%20Atualização&style=flat-square)
