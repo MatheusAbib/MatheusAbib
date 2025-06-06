@@ -30,7 +30,6 @@ Fique à vontade para explorar meus projetos, conhecer meu trabalho e entrar em 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
 </div>
 
