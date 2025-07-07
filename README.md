@@ -9,9 +9,9 @@ Fique à vontade para explorar meus projetos, conhecer meu trabalho e entrar em 
 
 ## 🧑‍💻 Sobre mim
 
-🎓 Estudante na **FATEC Mogi das Cruzes**, atualmente no 4º semestre.  
+🎓 Estudante na **FATEC Mogi das Cruzes**, atualmente no 6º semestre.  
 📚 Futuro pós-graduando, sempre buscando evoluir e aprender mais.  
-📍 Moro em **Mogi das Cruzes – SP**.  
+📍 **Mogi das Cruzes – SP**.  
 🧠 Sou focado, determinado e acredito que **excelência vem com paixão e dedicação**.
 
 ---
