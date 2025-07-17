@@ -36,16 +36,6 @@
 
 ---
 
-## 🛠️ Projetos em Destaque
-
-| Projeto | Tecnologias | Link |
-|--------|-------------|------|
-| 💼 Portfólio Pessoal | HTML, CSS, JavaScript | [Ver Projeto](https://matheus-abib-portifolio.up.railway.app/) |
-| 📚 Biblioteca Online | Java, Spring Boot, MySQL, HTML/JS | *Em desenvolvimento* |
-| 🛒 Loja Virtual | Angular, Tailwind, Firebase | *Em breve no GitHub* |
-
----
-
 ## ✉️ Entre em Contato
 
 Se quiser conversar, colaborar ou tirar dúvidas, me chame por onde preferir!  
