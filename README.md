@@ -1,46 +1,64 @@
-# 👋 Bem-vindo(a) ao meu perfil!
+<h1 align="center">👋 Olá, eu sou o Matheus Abib!</h1>
 
-Sou **Matheus Abib**, um desenvolvedor **Front-End** apaixonado por tecnologia, estudando para me tornar **Full-Stack**. 🚀  
-Fique à vontade para explorar meus projetos, conhecer meu trabalho e entrar em contato!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Apaixonado+por+tecnologia;Estudando+para+ser+Full-Stack+🚀" alt="Typing SVG" />
+</p>
 
-- **Meu portifólio:** [Matheus Abib - Portfólio](https://matheus-abib-portifolio.up.railway.app/)  
+<p align="center">
+  <a href="https://matheus-abib-portifolio.up.railway.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfólio-222?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/matheus-abib-382602301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mathabib_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?phone=5511975072008&text=Olá,%20gostaria%20de%20conectar%20contigo." target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-🎓 Estudante na **FATEC Mogi das Cruzes**, atualmente no 6º semestre.  
-📚 Futuro pós-graduando, sempre buscando evoluir e aprender mais.  
-📍 **Mogi das Cruzes – SP**.  
-🧠 Sou focado, determinado e acredito que **excelência vem com paixão e dedicação**.
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Mogi das Cruzes (6º semestre)  
+💻 Apaixonado por front-end, focado em evoluir para o full-stack  
+📍 Baseado em Mogi das Cruzes – SP  
+🔍 Sempre buscando aprender mais, melhorar e me desafiar  
+✨ Acredito que **excelência vem com paixão e dedicação**
 
 ---
 
-## 🚀 Tecnologias que uso
-
-<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-</div>
-
----
-
-## 📊 GitHub Stats
+## 🚀 Minhas Tecnologias Favoritas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,php,mysql" />
 </div>
 
 ---
 
-## 📱 Vamos nos conectar!
+## 📊 GitHub em Ação
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathabib_/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-abib-382602301/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511975072008&text=Olá,%20gostaria%20de%20conectar%20contigo.)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbib&show_icons=true&theme=tokyonight&border_radius=10&hide=issues" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
+</div>
 
 ---
+
+## 🛠️ Projetos em Destaque
+
+| Projeto | Tecnologias | Link |
+|--------|-------------|------|
+| 💼 Portfólio Pessoal | HTML, CSS, JavaScript | [Ver Projeto](https://matheus-abib-portifolio.up.railway.app/) |
+| 📚 Biblioteca Online | Java, Spring Boot, MySQL, HTML/JS | *Em desenvolvimento* |
+| 🛒 Loja Virtual | Angular, Tailwind, Firebase | *Em breve no GitHub* |
+
+---
+
+## ✉️ Entre em Contato
+
+Se quiser conversar, colaborar ou tirar dúvidas, me chame por onde preferir!  
+Gosto de trocar ideias, criar projetos e aprender junto. 😄
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="Coding Cat">
+</p>
+
+<p align="center"><strong>Obrigado por visitar meu perfil! ⭐</strong></p>
