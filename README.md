@@ -13,15 +13,13 @@
 
 ## 🧑‍💻 Sobre mim
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Mogi das Cruzes (6º semestre)  
-💻 Apaixonado por front-end, focado em evoluir para o full-stack  
-📍 Baseado em Mogi das Cruzes – SP  
+🎓 Estudante de **Desenvolvimento de Sistemas** na FATEC Mogi das Cruzes (6º semestre)  
+💻 Focado em evoluir para o full-stack  
 🔍 Sempre buscando aprender mais, melhorar e me desafiar  
-✨ Acredito que **excelência vem com paixão e dedicação**
 
 ---
 
-## 🚀 Minhas Tecnologias Favoritas
+## 🚀 Minhas Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,php,mysql" />
