@@ -1,5 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o Matheus Abib!</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="Coding Cat">
+</p>
 
 
 <p align="center">
@@ -35,16 +38,5 @@
 </div>
 
 ---
-
-## ✉️ Entre em Contato
-
-Se quiser conversar, colaborar ou tirar dúvidas, me chame por onde preferir!  
-Gosto de trocar ideias, criar projetos e aprender junto. 😄
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="Coding Cat">
-</p>
 
 <p align="center"><strong>Obrigado por visitar meu perfil! ⭐</strong></p>
