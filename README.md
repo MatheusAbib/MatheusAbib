@@ -1,8 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Matheus Abib!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Apaixonado+por+tecnologia;Estudando+para+ser+Full-Stack+🚀" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://matheus-abib-portifolio.up.railway.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfólio-222?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
