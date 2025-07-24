@@ -1,43 +1,33 @@
 <h1 align="center">Olá, eu sou o Matheus Abib! 👋</h1>
 
 <p align="center">
-  Desenvolvedor | Estudante de Análise e Desenvolvimento de Sistemas | 
+  Desenvolvedor | Estudante de Análise e Desenvolvimento de Sistemas
 </p>
+
 <div align="center">
-<a href="mailto:anabento3807@gmail.com" target="_blank" >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:anabento3807@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/anabbsilva/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        💻 Estatísticas do GitHub
-      </h1>
-    </summary>
-  </ul>
+
+<div align="center">
+  <h1>💻 Estatísticas do GitHub</h1>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizBentoSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizBentoSilva&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizBentoSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeatrizBentoSilva&layout=compact&langs_count=7&theme=radical" />
 </div>
 
 ---
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        🛠 Tecnologias e ferramentas
-      </h1>
-    </summary>
-  </ul>
+<div align="center">
+  <h1>🛠 Tecnologias e ferramentas</h1>
 </div>
 
 <div align="center">
@@ -65,8 +55,6 @@
         <td>
           <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
           <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-            <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-
         </td>
       </tr>
       <tr>
@@ -101,4 +89,3 @@
     </tbody>
   </table>
 </div>
-
