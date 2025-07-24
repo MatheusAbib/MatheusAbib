@@ -58,25 +58,9 @@
         </td>
       </tr>
       <tr>
-        <td><strong><br>Dados<br><br></strong></td>
-        <td>
-          <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        </td>
-      </tr>
-      <tr>
         <td><strong><br>Banco de Dados<br><br></strong></td>
         <td>
           <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-          <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-          <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        </td>
-      </tr>
-      <tr>
-        <td><strong><br>API<br><br></strong></td>
-        <td>
-          <img src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
-          <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=000" alt="Swagger" />
-          <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
         </td>
       </tr>
       <tr>
