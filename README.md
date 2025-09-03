@@ -24,19 +24,7 @@
   <h2>🛠 Linguagens mais usadas</h2>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical" />
 
-  <br><br>
-
-  <!-- Repositório em destaque -->
-  <h2>📌 Repositório em destaque</h2>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusAbib&repo=NOME_DO_REPO&theme=radical" />
-
-  <br><br>
-
-  <!-- Streak de contribuições -->
-  <h2>🔥 Streak de contribuições</h2>
-  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusAbib&theme=radical" />
-
-  <br><br>
+  <br>
 
   <!-- Estatísticas gerais -->
   <h2>📊 Estatísticas gerais</h2>
