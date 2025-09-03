@@ -18,7 +18,7 @@
 
 <div align="center">
   <h1>💻 Linguagens do Matheus</h1>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusAbib&theme=radical" height="180em"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbib&show_icons=true&count_private=true&theme=radical" />
 </div>
 
 ---
