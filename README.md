@@ -20,6 +20,7 @@
 
   <h1>💻 Estatísticas do GitHub</h1>
   <!-- Linguagens mais usadas -->
+      <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical" />
 
   <br>
 
