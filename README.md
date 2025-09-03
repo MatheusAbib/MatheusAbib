@@ -17,8 +17,8 @@
 ---
 
 <div align="center">
-  <h1>💻 Linguagens mais usadas</h1>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical" />
+  <h1>💻 Linguagens do Matheus</h1>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusAbib&theme=radical" height="180em"/>
 </div>
 
 ---
