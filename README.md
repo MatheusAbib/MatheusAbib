@@ -17,8 +17,31 @@
 ---
 
 <div align="center">
-  <h1>💻 Linguagens do Matheus</h1>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbib&show_icons=true&count_private=true&theme=radical" />
+
+  <h1>💻 Estatísticas do GitHub</h1>
+
+  <!-- Linguagens mais usadas -->
+  <h2>🛠 Linguagens mais usadas</h2>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical" />
+
+  <br><br>
+
+  <!-- Repositório em destaque -->
+  <h2>📌 Repositório em destaque</h2>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusAbib&repo=NOME_DO_REPO&theme=radical" />
+
+  <br><br>
+
+  <!-- Streak de contribuições -->
+  <h2>🔥 Streak de contribuições</h2>
+  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusAbib&theme=radical" />
+
+  <br><br>
+
+  <!-- Estatísticas gerais -->
+  <h2>📊 Estatísticas gerais</h2>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbib&show_icons=true&count_private=true&theme=radical" />
+
 </div>
 
 ---
