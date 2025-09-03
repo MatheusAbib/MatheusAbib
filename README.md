@@ -17,11 +17,8 @@
 ---
 
 <div align="center">
-  <h1>💻 Estatísticas do GitHub</h1>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=7&theme=radical" />
+  <h1>💻 Linguagens mais usadas</h1>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical" />
 </div>
 
 ---
