@@ -22,7 +22,7 @@
 
   <!-- Linguagens mais usadas -->
   <h2>Linguagens mais usadas</h2>
-  <img height="250em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical" />
+  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical" />
 
   <br>
 
