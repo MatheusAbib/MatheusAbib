@@ -21,16 +21,10 @@
   <h1>💻 Estatísticas do GitHub</h1>
 
   <!-- Linguagens mais usadas -->
-  <h2>🛠 Linguagens mais usadas</h2>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical" />
+  <h2>Linguagens mais usadas</h2>
+  <img height="250em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical" />
 
   <br>
-
-  <!-- Estatísticas gerais -->
-  <h2>📊 Estatísticas gerais</h2>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=MatheusAbib&show_icons=true&count_private=true&theme=radical" />
-
-</div>
 
 ---
 
