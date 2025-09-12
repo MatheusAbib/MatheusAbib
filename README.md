@@ -13,21 +13,22 @@
   </a>
 </div>
 
-
 ---
 
 <div align="center">
 
   <h1>💻 Estatísticas do GitHub</h1>
+
   <!-- Linguagens mais usadas -->
-<img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical&cache_seconds=0" />
+  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=radical&cache_seconds=0" />
 
   <br>
+</div>
 
 ---
 
 <div align="center">
-  <h1>🛠 Tecnologias e ferramentas</h1>
+  <h1>🛠 Tecnologias e Ferramentas</h1>
 </div>
 
 <div align="center">
@@ -40,7 +41,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong><br>Front-End<br><br></strong></td>
+        <td><strong>Front-End</strong></td>
         <td>
           <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
           <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -51,20 +52,22 @@
         </td>
       </tr>
       <tr>
-        <td><strong><br>Back-End<br><br></strong></td>
+        <td><strong>Back-End</strong></td>
         <td>
           <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
           <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+          <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
         </td>
       </tr>
       <tr>
-        <td><strong><br>Banco de Dados<br><br></strong></td>
+        <td><strong>Banco de Dados</strong></td>
         <td>
           <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         </td>
       </tr>
       <tr>
-        <td><strong><br>Versionamento<br><br></strong></td>
+        <td><strong>Versionamento</strong></td>
         <td>
           <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
           <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
