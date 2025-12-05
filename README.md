@@ -16,18 +16,17 @@
 ---
 
 <div align="center">
+  <h1>📊 Estatísticas do GitHub</h1>
 
-  <h1>💻 Estatísticas do GitHub</h1>
-
-  <!-- Linguagens mais usadas -->
-<img
-  height="270em"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusAbib&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=tokyonight"
-  alt="Linguagens mais usadas por MatheusAbib"
-/>
-
-
-  <br>
+  <!-- Estatísticas Gerais -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusAbib&theme=github_dark" alt="Estatísticas" />
+  
+  <!-- Linguagens -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusAbib&theme=github_dark" alt="Linguagens por Repositório" />
+  
+  <!-- Contribuições -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusAbib&theme=github_dark" alt="Detalhes do Perfil" />
+  
 </div>
 
 ---
