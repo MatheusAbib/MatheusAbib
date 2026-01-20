@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/matheusabib/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://matheus-abib-portifolio.up.railway.app/" target="_blank">
+  <a href="https://matheus-abib-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfólio" />
   </a>
 </div>
