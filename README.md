@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Matheus Abib! 👋</h1>
 
 <p align="center">
-  Desenvolvedor | Estudante de Análise e Desenvolvimento de Sistemas e Engenharia de Software
+  Desenvolvedor de Software| Tecnólogo em Análise e Desenvolvimento de Sistemas 
 </p>
 
 <div align="center">
