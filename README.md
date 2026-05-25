@@ -52,7 +52,6 @@
           <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
           <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
           <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
         </td>
       </tr>
       <tr>
@@ -60,14 +59,31 @@
         <td>
           <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
           <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-          <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
+          <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Frameworks</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React" />
+          <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+          <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+          <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Ferramentas</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+          <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
+          <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000" alt="Power BI" />
         </td>
       </tr>
       <tr>
         <td><strong>Banco de Dados</strong></td>
         <td>
           <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-          <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         </td>
       </tr>
       <tr>
